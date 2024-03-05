@@ -21,11 +21,11 @@ This data analysis project was carried out to help me improve my SQL querying sk
 After browsing through the data, some interesting question groupings that can provide clarity initially came to my mind:
 1. Sales and Revenue Analysis 
 2. Product and Inventory Analysis
-3. Customer Behavior and Order Analysis
+3. Customer Behaviour and Order Analysis
 4. Staff and Store Analysis
 5. Product Category and Brand Analysis
 
-**N.B**: More questions wered be added and answered when the data is queried
+**N.B**: More questions were added and answered when the data is queried
 
 ### Skills Demonstrated
 ---
@@ -72,7 +72,7 @@ This section covers a glimpse of some of the queries I wrote as well as a brief 
      <p align="center">
       <img src="prodquant.png">
      </p>
-4. **Customer Behavior and Order Analysis**:
+4. **Customer Behaviour and Order Analysis**:
    - Which customers have spent the most on their orders(top 5)?
      ```sql
      SELECT c.first_name, c.last_name, ROUND(SUM(oi.list_price * oi.quantity), 2) AS total_spent
