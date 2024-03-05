@@ -45,6 +45,7 @@ The data was already relatively clean and ready to use.
 
 ## Data Analysis
 This section covers a glimpse of some of the queries I wrote as well as a brief summary of the general findings I was able to extract through my analysis:
+
 **N.B**: All the queries I wrote can be found in the [Bike Queries](bike_queries.sql) file
 
 ### Findings
