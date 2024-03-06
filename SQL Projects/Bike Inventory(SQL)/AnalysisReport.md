@@ -126,7 +126,7 @@ This section covers a glimpse of some of the queries I wrote as well as a brief 
 
 ### Recommendations
 ---
-Based on the data insights I gathered, I have offered these recoomendations:
+Based on the data insights I gathered, I have offered these recommendations:
 
 1. **Focus on Successful Years:** Given that 2017 was the most successful year with the highest revenue, consider analyzing the factors that contributed to this success. Explore whether specific products, marketing strategies, or external factors played a role.
 
