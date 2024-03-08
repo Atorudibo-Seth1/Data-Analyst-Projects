@@ -13,7 +13,7 @@
 
 ### Project Overview
 ---
-This data analysis project was carried out to help me improve my skills in data analytics. It also aims to provide insights into the sales performance of a fictional European bike comapny that sells bikes, clothing and other accessories to multiple countries across the world. By understanding the patterns that exist within the data through proper analysis, appropriate recommendations were made that could potentially improve profitability. 
+This data analysis project was carried out to help me improve my skills in data analytics. It also aims to provide insights into the sales performance of a fictional European bike company that sells bikes, clothing and other accessories to multiple countries across the world. By understanding the patterns that exist within the data through proper analysis, appropriate recommendations were made that could potentially improve profitability. 
 ### Exploratory Questions
 ---
 These question groups were formulated after getting a brief understanding of the data. The aim was to add further insightful questions that stem from these groups that could provide more information for the analysis:
