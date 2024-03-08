@@ -29,7 +29,7 @@ Here are some interesting questions I asked to get some insights into the data p
 - Critical Thinking & Problem Solving
 ### Data Sources
 ---
-I found the dataset on Kaggle here.
+I found the dataset on Kaggle [here](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/data).
 ### Tools Used
 ---
 - Jupyter Notebooks
@@ -40,9 +40,9 @@ I found the dataset on Kaggle here.
 - Dropped unnecessary columns
 - Renamed and added columns appropriately
 ## Data Analysis
-This section covers a glimpse of some of the code I wrote as well as some screenshots and a brief summary of the general findings I was able to extract through my analysis.
+This section covers a glimpse of some of the code I wrote as well as some screenshots and a brief summary of the general findings I was able to extract through my analysis. Also because of my level of experience at the time, I only analysed 50km and 50mi races in the USA on 2020.
 
-**N.B**: The Notebook can be found in the [UltraMarathon_EDA(Pandas and Seaborn).ipynb](UltraMarathon_EDA(Pandas and Seaborn).ipynb) file
+**N.B**: The Notebook can be found in the [UltraMarathon_EDA.ipynb](UltraMarathon_EDA.ipynb) file
 ### Findings
 ---
 1. Are athletes slower in summer than in winter?
@@ -77,5 +77,12 @@ This section covers a glimpse of some of the code I wrote as well as some screen
    </p>
 ### Summary
 ---
+- There is strong negative correlation between the athlete ages and average speeds. This means that as athletes grow older or their ages increase, their speeds on average reduce.
+- There was more participation in 50km races than 50mi races most likely because of the difference in respective lengths.
+- There was relatively equal participation of males and females in the 50km races but in the 50mi races, males clearly participated more.
+- Athletes on average are much faster in winter than they are in the summer most likely because of the heat.
+- With regards to average speeds in 50km races, the gap between the males to females is larger than the gap that exists between them in 50mi races.
+- Athletes around age 29 tend to have the fastest average speeds.
 ### Limitations
 ---
+- Because the original dataset is so large, some columns were poorly documented such as race dates being missing, datatypes not matching the rescpective columns and so on. These made the process longer and more challenging but provided an opportunity to navigate through difficulties and find solutions.
