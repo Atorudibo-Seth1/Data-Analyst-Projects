@@ -20,7 +20,7 @@ This was one of my earlier data analysis projects and it was carried out to help
 3. What are the top 10 movies with the highest IMDb ratings?
 4. How many movies have been released across the various countries?
 5. What is the total number of movies available on each streaming service (Netflix, Hulu, Prime Video, Disney+)
-### Skils Demonstrated
+### Skills Demonstrated
 ---
 - Critical Thinking
 - Problem Solving
@@ -66,7 +66,7 @@ This section covers a glimpse of some of the queries I wrote as well as some scr
    LIMIT 10;
    ```
    <p align="center">
-      <img src="top10IMDB.png">
+      <img src="top10IMDb.png">
    </p>
 7. How many movies have been released across the various countries?
    ```sql
@@ -97,3 +97,8 @@ This section covers a glimpse of some of the queries I wrote as well as some scr
    </p>
 ### Summary
 ---
+- From the data, Prime Video has the most movies on it with 11712 movies.
+- The United States has the most movies from it with a total of 8482 movies.
+- The age group with the highest IMDB rating is all with 6.17 and the lowest is 16+ with 5.5.
+- The movie with the longest runtime is Colorado with a runtime of 1256 minutes(about 20 hours) and the shortest is Liefling The Movie with a 1 minute runtime.
+- The genere with the highest average IMDB rating is (Documentary,Family,History,War) with a rating of 9.1, the genre with the lowest is (Action,Comedy,Fantasy,Horror,Mystery,Sci-Fi,Thriller) with a 1.3 rating. For Rotten Tomatoes, the higest rated genre is (Adventure,Biography,Drama,Thriller,War) with a 100 score and the lowest is (Action,Biography,Crime,Sport,Thriller) with a 0 score.
