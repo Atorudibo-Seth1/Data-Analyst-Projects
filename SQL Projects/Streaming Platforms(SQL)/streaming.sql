@@ -211,11 +211,12 @@ SELECT Age, ROUND(AVG(IMDb), 2) AS AvgIMDb
 FROM movies
 GROUP BY Age;
 
--- Find the top 3 directors with the highest average IMDb rating. Display the director's name and their average rating.
-SELECT Directors, IMDb
+-- Find the top 5 directors with the highest average IMDb rating. Display the director's name and their average rating.
+SELECT Directors, ROUND(AVG(IMDb),2) AS AvgIMDb
 FROM movies
-ORDER BY IMDb DESC
-LIMIT 3;
+GROUP BY Directors
+ORDER BY AvgIMDb DESC
+LIMIT 5;
 
 -- Find the top 5 genres with the longest average runtime. Display the genre and the average runtime.
 SELECT Genres, ROUND(AVG(Runtime), 2) AS AvgRuntimes
