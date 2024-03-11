@@ -109,6 +109,22 @@ This section covers a glimpse of some of the queries I wrote as well as some scr
    </p>
 ### Summary
 ---
+- There have been about 51 games held in total.
+- The United States has the most medals in total with 5392 medals.
+- Michael Phelps has the most gold medals of all time with 23 golds.
+- Michael Phelps also has the most medals in total with 28.
+- The oldest olympic athletes to win gold are Charles Jacobus and Oscar Gomer Swahn at 64 years of age.
+- The youngest athletes to win gold all at age 13 are: 
+  - Hans Bourquin
+  - Donna Elizabeth de Varona
+  - Fu Mingxia
+  - Marjorie Gestring
+  - Kim Yun-Mi
+  - Aileen Muriel Riggin
+  - Klaus Zerta
+- From the data, Switzerland and UK have participated in all games.
+- Some countries that have never won a gold medal: Ghana, Qatar, Kuwait, Saudi Arabia, Niger, Botswana, Guyana etc.
+
 ### Limitations
 ---
 I had slight problems initially importing all the rows of that dataset but it was about 95% complete but I have since figured out the problem and the solution to that.
