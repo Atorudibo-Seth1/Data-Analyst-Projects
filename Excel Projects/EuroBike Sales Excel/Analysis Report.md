@@ -10,7 +10,7 @@
 
 ### Project Overview
 ---
-This data analysis project was carried out to help me improve my skills in data analytics primarily using Excel. I have done similar work on this dataset but using SQL. The main aim of this project was to try my hands on Excel and its features and in turn create a simple and visually-appealing dashboard. 
+This data analysis project served as my first attempt to improve my skills in data analytics primarily using Excel. I have done similar work on this dataset but using SQL. The main aim of this project was to try my hands on Excel and its features and in turn create a simple and visually-appealing dashboard. 
 ### Skills Demonstrated
 ---
 - Using Pivot Tables
@@ -33,6 +33,13 @@ The data used in contained within the [SalesDashboard.xlsx](SalesDashboard.xlsx)
 <p align="center">
   <img src="sales_dashboard.png">
 </p>
+As seen in the screenshot above, the use of the following features of Excel can be seen:
+
+- Charts
+- Timelines
+- Pivot Tables
+- Slicers
+
 ### Findings
 ---
-As said in the overview, I have worked with this dataset before so findings can be found here. The only difference is during the SQL analysis, there were issues with data importation so this analysis with Excel has the complete data therefore has more accurate values
+As said in the overview, I have worked with this dataset before so findings can be found [here](https://github.com/Atorudibo-Seth1/Data-Analyst-Projects/blob/main/SQL%20Projects/Europe%20Bike%20Sales(SQL)/Analysis%20Report.md). The only difference is during the SQL analysis, there were issues with data importation so this analysis with Excel has the complete data therefore has more accurate values.
