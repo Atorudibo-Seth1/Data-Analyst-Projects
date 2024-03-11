@@ -30,7 +30,7 @@ Here are some interesting questions I asked to get some insights into the data p
 
 ### Data Sources
 ---
-The data used can be found in the Data.zip folder.
+The data used can be found in the [Data.zip](Data.zip) folder.
 ### Tools Used
 ---
 - MySQL
@@ -39,6 +39,8 @@ The data used can be found in the Data.zip folder.
 The data was already relatively clean and ready to use.
 ## Data Analysis
 This section covers a glimpse of some of the queries I wrote as well as some screenshots and a brief summary of the general findings I was able to extract through my analysis:
+
+**N.B**: All the code I wrote can be found in the [olympicos.sql](olympicos.sql) file
 ### Findings
 ---
 1. How many olympics games have been held?
