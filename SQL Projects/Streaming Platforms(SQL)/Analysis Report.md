@@ -1,4 +1,4 @@
-# European Bike Store Sales
+# Streaming Platforms Analysis
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Exploratory Questions](#exploratory-questions)
