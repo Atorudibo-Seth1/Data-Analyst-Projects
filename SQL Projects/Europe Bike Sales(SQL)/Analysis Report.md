@@ -10,6 +10,7 @@
 - [Findings](#findings)
 - [Summary](#summary)
 - [Recommendations](#recommendations)
+- [Issues](#issues)
 
 ### Project Overview
 ---
@@ -136,3 +137,6 @@ Based on my findings, here are some recommendations I would offer:
 
 6. **Targeted Marketing to Age Groups:** Given the revenue discrepancy among age groups, consider targeted marketing campaigns for the Adults (35-64) age group, which is the highest revenue generator. Tailor product recommendations or promotions to this demographic.
 
+### Issues
+---
+During the analysis, there were issues with data importation so the data was truncated. That being said, hands-on experience was still gained and quality analysis was still done.
