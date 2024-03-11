@@ -179,9 +179,10 @@ FROM movies
 GROUP BY Year;
 
 -- Count the number of movies released in each country. Display the country and the count of movies.
-SELECT Country, COUNT(ID)
+SELECT Country, COUNT(ID) AS movie_count
 FROM movies
-GROUP BY Country;
+GROUP BY Country
+ORDER BY movie_count DESC;
 
 -- Count the number of movies released in each country. Display the country and the count of movies.
 SELECT Country, COUNT(Title)
