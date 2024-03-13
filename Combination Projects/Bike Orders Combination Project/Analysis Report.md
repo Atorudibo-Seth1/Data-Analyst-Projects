@@ -13,7 +13,7 @@
 
 ### Project Overview
 ---
-This project was an attempt to complete an end to end data analyst opertaion using multiple tools as a means of improving my skills. It also aims to provide insights into the sales performance of stores that sell a variety of bikes. By identifying purchase trends in customers and products, data-driven decisions and recommendations can be made as well as acquiring an understanding of store performances. 
+This project was an attempt to complete an end to end data analyst task using multiple tools(MySQL, Excel, Tableau) as a means of improving my skills. It also aims to provide insights into the sales performance of stores that sell a variety of bikes. By identifying purchase trends in customers and products, data-driven decisions and recommendations can be made as well as acquiring an understanding of store performances. 
 ### Exploratory Questions
 ---
 After browsing through the data, some interesting question groupings that can provide clarity initially came to my mind:
@@ -84,6 +84,20 @@ The data used can found along with the Excel Dashboard in the [orders_compiled.x
   ```
 - Checking for duplicates and nulls in the data
 ## Data Analysis
+The screenshot below is the Tableau dashboard. It features visually-appealing charts as well as filters for years and states for interactivity. It provide an easy way to find import insights about the data.
+
+<p align="center">
+  <img src="Exec_Dashboard.png">
+</p>
+
+The next screenshots are from the Excel Dashboard which uses charts to display insights and slicers to streamline or filter the data being displayed for more specific inquiries.
+<p align="center">
+  <img src="bikes_dashboard1.png">
+</p>
+<p align="center">
+  <img src="bikes_dashboard2.png">
+</p>
+
 ### Findings
 ---
 - The most successful **year** was **2017** with a revenue of **$3,845,515.02**.
