@@ -45,8 +45,13 @@ The data is contained in the [coffeeOrdersDashboard.xlsx](coffeeOrdersDashboard.
   <img src="coffee_dashboard.png">
 </p>
 
+As seen in the above screenshot, is the sales dashboard. It contains a timeline to filter sales over a specific time period. It also contains slicers that allow the charts to filtered accordingly and reflect the data of the selected button.
+
 ### Findings
 ---
-
+- The country with the higest total sales is the United States with sales of $35,639. In second is Ireland with $6,697 and last is the United Kingdom with $2,799.
+- The customer with the most money spent is Alis Wilmore with total purchases of $317
+- The best selling coffee type is Liberica, then Arabica, Excelsa and Robusta is the least popular.
+  
 ### Recommendations
 ---
