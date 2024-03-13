@@ -52,7 +52,7 @@ The screenshot above shows the second part of the dashboard which focuses on the
 ### Findings
 ---
 - From the data, the distributor making the most profits is **Universal Pictures** with profits **$54,269,923,767**.
-- The most successful movie is **Jurassic World: Fallen Kningdom** with profits of **$1,551,635,667**.
+- The most successful movie is **Jurassic World: Fallen Kingdom** with profits of **$1,551,635,667**.
 - The success of genres in terms of profits is as follows:
   - **Horror** with	**$25,390,411,468**
   - **Comedy** with	**$65,845,708,113**
