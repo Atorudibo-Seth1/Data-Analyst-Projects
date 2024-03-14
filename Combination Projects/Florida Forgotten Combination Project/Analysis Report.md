@@ -131,9 +131,19 @@ The data used for this project can be found in the [cleanedupdata.csv](cleanedup
      <img src="top3.png">
    </p>
 **Looker Studio**
+
+The screenshot below is the quick dashboard I created for the first time using Looker Studio. It offered a concise and simple way to bring dashboards and visualisations to life. It uses various controls(filters) as a means of providing interactivity in the dashboard as well as eye-catching charts for insights into the data provided.
+
 <p align="center">
   <img src="looker_dash.png">
 </p>
 
 ### Findings
 ---
+Here are some insights I got through my analysis:
+
+- There were 23 states represented in the race.
+- On average, male athletes were faster than females in the race.
+- The fastest athlete was Daniel Wilson with 8 hours 23 minutes and 1 second and the slowest athlete was Jonathan Burnham with 15 hours 40 minutes and 49 seconds.
+- 108 athletes finished the race.
+- The average athlete speed was 762 minutes(about 13 hours).
