@@ -61,6 +61,7 @@ The data used for this project can be found in the [cleanedupdata.csv](cleanedup
   FROM race_stats
   ```
 ## Data Analysis
+
 **SQL**
 ---
 1. How many States were represented in the race?
@@ -131,7 +132,7 @@ The data used for this project can be found in the [cleanedupdata.csv](cleanedup
      <img src="top3.png">
    </p>
 **Looker Studio**
-
+---
 The screenshot below is the quick dashboard I created for the first time using Looker Studio. It offered a concise and simple way to bring dashboards and visualisations to life. It uses various controls(filters) as a means of providing interactivity in the dashboard as well as eye-catching charts for insights into the data provided.
 
 <p align="center">
