@@ -32,7 +32,7 @@ The data used for this project can be found in the [cleanedupdata.csv](cleanedup
 ### Tools Used
 ---
 - Microsoft Excel
-- Python
+- Jupyter Notebooks(Python)
 - MySQL
 - Looker Studio
 ### Data Preparation
@@ -60,6 +60,7 @@ The data used for this project can be found in the [cleanedupdata.csv](cleanedup
   SELECT fullname, Place, Time, Total_Minutes, City, State, Age, Gender, latlong
   FROM race_stats
   ```
+**N.B**: Complete data prep in Python can be found [here](FF_RACE_50.ipynb).
 ## Data Analysis
 
 **SQL**
