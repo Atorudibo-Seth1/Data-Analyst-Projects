@@ -85,3 +85,5 @@ The data used can be found in the [london_bikes_final.xlsx](london_bikes_final.x
 </p>
 
 The image above is a snapshot of the dashboard I created. It features a dynamic KPI which identifies the total rides during a time range. It also uses a reference band and sets as a means to select a range of dates as well as parameters to select a moving average duration and period. Finally it features charts to dispaly specific insights into the data.
+
+**N.B**: The actual dashboard can be found [here](https://public.tableau.com/views/LondonBikeSharing_17079428803240/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
