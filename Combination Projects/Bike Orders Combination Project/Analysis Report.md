@@ -86,6 +86,8 @@ The data used can found along with the Excel Dashboard in the [orders_compiled.x
 ## Data Analysis
 The screenshot below is the Tableau dashboard. It features visually-appealing charts as well as filters for years and states for interactivity. It provide an easy way to find import insights about the data.
 
+**N.B**: The actual dashboard can be seen [here](https://public.tableau.com/views/BikeOrders/ExecDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
+
 <p align="center">
   <img src="Exec_Dashboard.png">
 </p>
