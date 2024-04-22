@@ -31,3 +31,18 @@ The aim was to ask insightful questions that could provide more information for 
 
 ### Data Sources
 ---
+The data used can be found in the zip folder.
+
+### Tools Used
+---
+- Jupyter Notebooks
+
+### Data Cleaning
+---
+- Checking for nulls and duplicates and dropping them where necessary.
+- Filling nulls with appropriate types
+
+## Data Analysis
+This section covers a glimpse of some of the code I wrote as well as some screenshots and a brief summary of the general findings I was able to extract through my analysis. 
+
+**N.B**: The complete code and visualisations can be found in the [Wine_Reviews.ipynb](Wine_Reviews.ipynb) file
