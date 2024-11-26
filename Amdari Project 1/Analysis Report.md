@@ -21,7 +21,7 @@ Here are some questions that served as a guide for insights:
 2. How many orders are still backlogged?
 3. What are the various performances in terms of logistics i.e Drivers and vehicular performances?
 4. What is the order completion rate?
-5. How long does do delivery take on average as well as delay averages and impact?
+5. How long do deliveries take on average as well as delay averages and impact?
 
 ### Skills Demonstrated
 ---
