@@ -21,7 +21,7 @@ Here are some questions that served as a guide for insights:
 2. How many orders are still backlogged?
 3. What are the various performances in terms of logistics i.e Drivers and vehicular performances?
 4. What is the order completion rate?
-5. How long does do delivery take on avergae as well as delay averages and impact?
+5. How long does do delivery take on average as well as delay averages and impact?
 
 ### Skills Demonstrated
 ---
@@ -32,7 +32,7 @@ Here are some questions that served as a guide for insights:
 
 ### Data Sources
 ---
-The data is contained in the [Delivery Optimisation.xlsx](Delivery Optimisation.xlsx) file along with the dashboard.
+The data is contained in the [DeliveryOptimisation.xlsx](DeliveryOptimisation.xlsx) file along with the dashboard.
 ### Tools Used
 ---
 - Microsoft Excel
@@ -44,26 +44,33 @@ The data is contained in the [Delivery Optimisation.xlsx](Delivery Optimisation.
 ## Data Analysis
 
 <p align="center">
-  <img src="coffee_dashboard.png">
+  <img src="OptimisationDashboard.png">
 </p>
 
-As seen in the above screenshot, is the sales dashboard. It contains a timeline to filter sales over a specific time period. It also contains slicers that allow the charts to filtered accordingly and reflect the data of the selected button.
+As seen in the above image, is the interactive dashboard. It contains several KPIs that serve as indicators for important metrics. It also contains slicers that allow the charts to filtered accordingly and reflect the data of the selected button.
 
 ### Findings
 ---
-- The country with the highest total sales is the United States with sales of $35,639. In second is Ireland with $6,697 and last is the United Kingdom with $2,799.
-- The customer with the most money spent is Alis Wilmore with total purchases of $317
-- The best selling coffee type is Liberica, then Arabica, Excelsa and Robusta is the least popular.
+- The average delivery time for an order is about 152 minutes while the average delay incured for an order is 14.5 minutes.
+- The current overall customer satisfaction rate is about 32% which is pretty low and below average.
+- Bike C is the vehicle incurring the highest delays on average.
+- About 49% of orders have been completed at the moment.
+- There are currently more orders in backlog than orders that have been completed.
+- Route 3 is associated with the highest delays and Route 5 is the lowest.
+- Orders with expedited rules are associated with the highest average delays.
   
 ### Recommendations
 ---
 Based on some of my findings, here are some recommendations I would offer:
 
-1. **Focus on Expanding in the United States:**
-   Given that the United States has the highest total sales, consider concentrating marketing efforts and resources on expanding and optimizing operations in the U.S. Identify specific strategies to attract more customers or increase sales in this region, such as targeted promotions, loyalty programs, or market-specific offerings.
+1. **Address Delays Across Routes and Vehicles:**
+   Conduct detailed analyses of Route 3 and Route 5 to replicate the efficiency factors of Route 5 in other routes. Also diversify or upgrade the fleet if Bike C consistently underperforms compared to other vehicles.
 
-2. **Customer Engagement with High Spenders:**
-   Develop a customer engagement strategy to retain and potentially increase spending from high-value customers like Alis Wilmore. Consider implementing a personalized loyalty program, sending exclusive offers, or seeking feedback to enhance the overall customer experience. Strengthening relationships with top spenders can contribute significantly to overall sales growth.
+2. **Increase Order Completion Rate:**
+   Establish a short-term target to increase the current completion rate from 49% to at least about 70% within a defined period. 
 
-3. **Diversify Coffee Offerings:**
-   Recognizing the popularity of Liberica, Arabica, and Excelsa, explore opportunities to diversify the coffee menu further. Introduce new coffee blends or variations to attract a broader customer base and potentially increase sales. Conduct market research to understand local preferences in each country and tailor offerings accordingly. This strategy can help tap into different segments of the market and enhance overall product appeal.
+3. **Reassess Expedited Rules:**
+   Orders with expedited rules have the highest delays, indicating inefficiency in their processing. Review and streamline these rules for better performance. Limit the number of expedited orders to ensure that they don’t overload available resources.
+
+4. **Address the Backlog Issue:**
+   Increase resources (e.g., drivers or vehicles) for orders in backlog while maintaining a balance for ongoing deliveries. Implement a dynamic priority system to ensure older backlogged orders are addressed first.
