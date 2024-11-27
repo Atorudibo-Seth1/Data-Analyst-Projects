@@ -10,10 +10,22 @@
 - [Data Analysis](#data-analysis)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
+- [Challenges](#challenges)
 
 ### Project Overview
 ---
-This project aims to use the art of utilising Microsoft Excel to streamline and perfect order fulfilment within supply chain operations.
+**Objective:**
+Developed an interactive Excel dashboard to streamline order fulfillment processes and provide actionable insights for addressing operational inefficiencies. The project aimed to enhance delivery performance, minimize delays, and improve customer satisfaction within the logistics and supply chain domain.
+
+**Key Features:**
+
+- KPI Automation: Created Office Scripts to calculate and update key metrics, including:Order Completion Rate, Average Delivery Time, Delay Impact, Customer Satisfaction Score
+- Conditional Formatting: Automated visual highlights for critical delays and performance issues to facilitate quick decision-making.
+- Data Visualization: Designed dynamic charts and tables to track important data metrics.
+
+**Performance Insights:** 
+Identified key challenges such as high delays for specific routes (e.g., Route 3) and vehicles (e.g., Bike C), low customer satisfaction rates, and backlog dominance.
+
 ### Exploratory Questions
 ---
 Here are some questions that served as a guide for insights:
@@ -38,9 +50,11 @@ The data is contained in the [DeliveryOptimisation.xlsx](DeliveryOptimisation.xl
 - Microsoft Excel
 ### Data Cleaning
 ---
-- Checking for duplicates
-- Addressing empty cells in certian columns
-- Fixing date and other datatypes
+- Checked for duplicates
+- Checked for missing values
+- Checked for outliers
+- Checked for data consistency i.e datatypes in columns
+
 ## Data Analysis
 
 <p align="center">
@@ -74,3 +88,8 @@ Based on some of my findings, here are some recommendations I would offer:
 
 4. **Address the Backlog Issue:**
    Increase resources (e.g., drivers or vehicles) for orders in backlog while maintaining a balance for ongoing deliveries. Implement a dynamic priority system to ensure older backlogged orders are addressed first.
+
+### Challenges
+---
+- Working with Office Scripts as well as the process of KPI automation was new to me. It came with its challenges and failures in order to figure out how to properly execute but overall a good learning experience and introduction to new technology.
+- The dynamic integration of data into the dashboard was also a challenge initially but with research and trials I was able to sort that out as well.
