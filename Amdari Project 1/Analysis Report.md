@@ -19,7 +19,7 @@ Developed an interactive Excel dashboard to streamline order fulfillment process
 
 **Key Features:**
 
-- KPI Automation: Created Office Scripts to calculate and update key metrics, including:Order Completion Rate, Average Delivery Time, Delay Impact, Customer Satisfaction Score
+- KPI Automation & Ad-hoc Reporting: Created Office Scripts to calculate and update key metrics, including: Order Completion Rate, Average Delivery Time, Delay Impact, Customer Satisfaction Score as well as creating ad-hoc reports.
 - Conditional Formatting: Automated visual highlights for critical delays and performance issues to facilitate quick decision-making.
 - Data Visualization: Designed dynamic charts and tables to track important data metrics.
 
